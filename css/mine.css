@@ -1,0 +1,58 @@
+.banner{
+    margin-left: -265px;
+}
+
+.box12{
+    margin-left: -200px;
+}
+
+.box11{
+    margin-left: -100px;
+}
+
+.box9{
+    margin-left: 120px;
+}
+
+.box8{
+    margin-left: -200px;
+}
+
+.box7{
+    margin-left: -100px;
+}
+
+.box5{
+    margin-left: 120px;
+}
+
+.box4{
+    margin-left: -200px;
+}
+
+.box3{
+    margin-left: -100px;
+}
+
+.box1{
+    margin-left: 120px;
+}
+
+
+ul li:hover{
+    background-color: aqua;
+}
+
+body{
+    background-color: ghostwhite;
+}
+h1{
+    color: pink;
+}
+
+.banner1{
+    margin-left: -300px;
+
+
+
+
